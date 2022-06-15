@@ -1,4 +1,3 @@
-# PythonClassCalculator
-Lets create a python calculator, defining a class, and calling the function
-Calling methods through an object of a Class
-Passing the Class arguments
+# Python Functions Collections
+1. A python GRADE calculator
+2. Image resizer maintaining aspect ratio (and quality)
